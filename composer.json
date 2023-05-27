@@ -1,0 +1,11 @@
+{
+    "name": "root/web-server1",
+    "authors": [
+        {
+            "name": "m"
+        }
+    ],
+    "require": {
+        "tightenco/collect": "^9.52"
+    }
+}
